@@ -1,0 +1,28 @@
+This is the plan for creating my TaskManager android app. It contains the problem, the solution, and the classes and componenents that the program will need afterwords.
+
+Problem
+I often have alot of different things that I want to do at a time, but I have a hard time choosing which of them to do. The end result is that I end up doing nothing.
+
+Solution
+I create a sort of to do list that suggests one of the tasks for you to do. This would allow me to get past the small hurdle of deciding which of the tasks i want to do.
+
+
+User Stories
+I want to be able to make a list of tasks I want to complete.
+    I want to be able to both add and remove tasks.
+I want to be suggested a task to take on.
+I want the task to be shown as a notification.
+I want to turn whether im suggested a task on or off.
+I want the app to suggest a task for me after a certain period of time.
+
+Stretch Goals
+I want to be able to tap a task and give it a timer. This timer will show how much time I plan on dedicating to the task. I can end this timer early.
+I want to be able to skip a task if I do not feel like doing it right now.
+If I skip a task, I want the app to show how many times I have skipped this task. This will let me know if Im putting it off.
+I want to create multiple lists of tasks that will notify me at different times
+I want to create tasks that have subtasks
+
+Current planning
+First, I will just create a list of objects that I can add to and remove from easily. This part can be done and tested with pure java. I wont nescessarily need android studio yet.
+Then, I will write a unit test for this list.
+
